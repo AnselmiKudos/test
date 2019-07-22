@@ -21,11 +21,11 @@ php artisan install
 
 php artisan key:generate
 
-composer run-script post-root-package-install
+composer run-script post-root-package-install (opcional)
 
 php artisan migrate
 
-php artisan db:seed
+php artisan db:seed (opcional)
 
 ```
 
