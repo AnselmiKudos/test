@@ -14,18 +14,20 @@ _Aplicación que gestiona todos los PFV de los clientes de oEnergy_
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ### Instalación 🔧
-```
+``` 
 php artisan install
 
 php artisan key:generate
 
 php artisan migrate
 ```
-#### [opcional]
-```
-* composer run-script post-root-package-install // Genera el .env con el .env.examble
+_Comandos opcionales_
+``` php
+// Genera el .env con el .env.examble.
+composer run-script post-root-package-install
 
-* php artisan db:seed // Ejecuta los Seeders.
+// Ejecuta los Seeders de Laravel.
+php artisan db:seed
 ```
 
 ## Construido con 🛠️
