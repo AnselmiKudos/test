@@ -14,7 +14,7 @@ _Aplicación que gestiona todos los PFV de los clientes de oEnergy_
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ### Instalación 🔧
-``` 
+``` php
 php artisan install
 
 php artisan key:generate
