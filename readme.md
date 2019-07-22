@@ -15,8 +15,6 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Instalación 🔧
 ```
-git clone https://Alzheimer10@bitbucket.org/tbtfsoft/oam.git
-
 php artisan install
 
 php artisan key:generate
