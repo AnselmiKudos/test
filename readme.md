@@ -20,13 +20,12 @@ php artisan install
 php artisan key:generate
 
 php artisan migrate
-
+```
 #### [opcional]
-
+```
 * composer run-script post-root-package-install // Genera el .env con el .env.examble
 
 * php artisan db:seed // Ejecuta los Seeders.
-
 ```
 
 ## Construido con 🛠️
