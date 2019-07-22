@@ -15,7 +15,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_las herramientas y Frameworks utilizados para este proyecto_
 
 * [Laravel](https://laravel.com/docs/5.8) - Framework PHP
 * [Bootstrap](https://getbootstrap.com/) - Framework CSS - Conjunto de herramientas de código abierto para desarrollar con HTML, CSS y JS.
