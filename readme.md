@@ -13,6 +13,22 @@ _Aplicación que gestiona todos los PFV de los clientes de oEnergy_
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
+### Instalación 🔧
+```
+git clone https://Alzheimer10@bitbucket.org/tbtfsoft/oam.git
+
+php artisan install
+
+php artisan key:generate
+
+composer run-script post-root-package-install
+
+php artisan migrate
+
+php artisan db:seed
+
+```
+
 ## Construido con 🛠️
 
 _las herramientas y Frameworks utilizados para este proyecto_
@@ -23,3 +39,7 @@ _las herramientas y Frameworks utilizados para este proyecto_
 * [Laravel-permission](https://github.com/spatie/laravel-permission) - Este paquete le permite administrar los permisos y roles de los usuarios en una base de datos.
 * [laravel-datatables](https://github.com/yajra/laravel-datatables) - Este paquete se crea para manejar los trabajos del lado del servidor de DataTables jQuery Plugin a través de la opción AJAX usando Eloquent ORM, Fluent Query Builder o Collection.
 * [laravel-sluggable](https://github.com/spatie/laravel-sluggable) - Este paquete proporciona un trait que generará un slug único al guardar cualquier modelo de Eloquent.
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
