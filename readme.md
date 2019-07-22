@@ -19,6 +19,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Laravel](https://laravel.com/docs/5.8) - Framework PHP
 * [Bootstrap](https://getbootstrap.com/) - Framework CSS - Conjunto de herramientas de código abierto para desarrollar con HTML, CSS y JS.
+* [laravel5-repository](https://gitlab.com/ulrichntella/laravel5-repository) - Los repositorios de Laravel 5 se utilizan para abstraer la capa de datos, lo que hace que nuestra aplicación sea más flexible de mantener.
 * [Laravel-permission](https://github.com/spatie/laravel-permission) - Este paquete le permite administrar los permisos y roles de los usuarios en una base de datos.
 * [laravel-datatables](https://github.com/yajra/laravel-datatables) - Este paquete se crea para manejar los trabajos del lado del servidor de DataTables jQuery Plugin a través de la opción AJAX usando Eloquent ORM, Fluent Query Builder o Collection.
-* [laravel-sluggable](https://github.com/spatie/laravel-sluggable) - Este paquete proporciona un rasgo que generará un slug único al guardar cualquier modelo de Eloquent.
+* [laravel-sluggable](https://github.com/spatie/laravel-sluggable) - Este paquete proporciona un trait que generará un slug único al guardar cualquier modelo de Eloquent.
