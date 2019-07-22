@@ -19,10 +19,9 @@ php artisan install
 
 php artisan key:generate
 
-
 php artisan migrate
 
-(opcional)
+#### [opcional]
 
 * composer run-script post-root-package-install // Genera el .env con el .env.examble
 
